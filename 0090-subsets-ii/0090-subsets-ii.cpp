@@ -2,21 +2,14 @@ class Solution {
     public:
     void generate(int ind,int n,vector<int> &ds, vector<vector<int>> &ans,vector<int> &nums)
     {
-        if(ind==n)
+       ans.push_back(ds);
+        for(int i=ind;i<n;i++)
         {
-            auto it = find(ans.begin(),ans.end(),ds);
-            if(it==ans.end())
-            {
-                ans.push_back(ds);
-            }
-            return;
+            if(i>ind&&nums[i]==nums[i-1])continue;
+            ds.push_back(nums[i]);
+            generate(i+1,n,ds,ans,nums);
+            ds.pop_back();
         }
-        //pick
-        ds.push_back(nums[ind]);
-        generate(ind+1,n,ds,ans,nums);
-        ds.pop_back();
-        //not pick
-        generate(ind+1,n,ds,ans,nums);
     }
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
