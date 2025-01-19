@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pratishtha-gupta/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/pratishtha-gupta/leetcode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pratishtha-gupta/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -73,8 +75,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
