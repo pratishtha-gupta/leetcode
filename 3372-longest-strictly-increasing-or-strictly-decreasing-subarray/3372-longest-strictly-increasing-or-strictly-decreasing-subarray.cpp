@@ -9,30 +9,32 @@ public:
             if(nums[i+1]>nums[i])
             {
                 cnt++;
+                 ans = max(ans,cnt);
             }
             else
             {
-                ans = max(ans,cnt);
+               // ans = max(ans,cnt);
                 cnt=1;
                 continue;
             }
         }
-        ans = max(ans,cnt);
+       // ans = max(ans,cnt);
         cnt =1;
          for(i=0;i<n-1;i++)
         {
             if(nums[i+1]<nums[i])
             {
                 cnt++;
+                 ans = max(ans,cnt);
             }
             else
             {
-                ans = max(ans,cnt);
+               // ans = max(ans,cnt);
                 cnt=1;
                 continue;
             }
         }
-          ans = max(ans,cnt);
+         // ans = max(ans,cnt);
         return ans;
     }
 };
