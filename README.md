@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/pratishtha-gupta/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/pratishtha-gupta/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pratishtha-gupta/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/pratishtha-gupta/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
