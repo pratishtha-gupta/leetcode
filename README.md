@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pratishtha-gupta/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pratishtha-gupta/leetcode/tree/master/2690-house-robber-iv) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pratishtha-gupta/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pratishtha-gupta/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Design
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratishtha-gupta/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
