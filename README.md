@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/pratishtha-gupta/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratishtha-gupta/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pratishtha-gupta/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Design
 |  |
@@ -279,8 +281,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pratishtha-gupta/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pratishtha-gupta/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
