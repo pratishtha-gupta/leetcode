@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2107-find-unique-binary-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/pratishtha-gupta/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pratishtha-gupta/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pratishtha-gupta/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/pratishtha-gupta/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Math
 |  |
 | ------- |
