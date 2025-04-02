@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/pratishtha-gupta/leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pratishtha-gupta/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pratishtha-gupta/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
