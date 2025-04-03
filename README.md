@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratishtha-gupta/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pratishtha-gupta/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
