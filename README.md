@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pratishtha-gupta/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/pratishtha-gupta/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/pratishtha-gupta/leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
