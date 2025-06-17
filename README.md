@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pratishtha-gupta/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/pratishtha-gupta/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/pratishtha-gupta/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pratishtha-gupta/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/pratishtha-gupta/leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pratishtha-gupta/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/pratishtha-gupta/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/pratishtha-gupta/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pratishtha-gupta/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pratishtha-gupta/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
