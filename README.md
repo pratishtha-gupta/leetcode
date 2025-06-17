@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pratishtha-gupta/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/pratishtha-gupta/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pratishtha-gupta/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/pratishtha-gupta/leetcode/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratishtha-gupta/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/pratishtha-gupta/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/pratishtha-gupta/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pratishtha-gupta/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pratishtha-gupta/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pratishtha-gupta/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
