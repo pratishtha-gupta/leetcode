@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pratishtha-gupta/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0812-rotate-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratishtha-gupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
