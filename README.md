@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0812-rotate-string) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratishtha-gupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/pratishtha-gupta/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pratishtha-gupta/leetcode/tree/master/1364-tuple-with-same-product) |
