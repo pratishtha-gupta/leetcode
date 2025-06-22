@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0812-rotate-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pratishtha-gupta/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pratishtha-gupta/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/pratishtha-gupta/leetcode/tree/master/0768-partition-labels) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratishtha-gupta/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/pratishtha-gupta/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pratishtha-gupta/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/pratishtha-gupta/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pratishtha-gupta/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -691,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pratishtha-gupta/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/pratishtha-gupta/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
