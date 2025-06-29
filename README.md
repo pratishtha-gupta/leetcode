@@ -804,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pratishtha-gupta/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
