@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pratishtha-gupta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
