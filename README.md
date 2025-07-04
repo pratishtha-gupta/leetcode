@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/pratishtha-gupta/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/pratishtha-gupta/leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
 |  |
 | ------- |
