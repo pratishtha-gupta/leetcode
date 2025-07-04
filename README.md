@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pratishtha-gupta/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/pratishtha-gupta/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratishtha-gupta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pratishtha-gupta/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/pratishtha-gupta/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratishtha-gupta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pratishtha-gupta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pratishtha-gupta/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
