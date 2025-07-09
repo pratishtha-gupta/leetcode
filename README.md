@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratishtha-gupta/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pratishtha-gupta/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pratishtha-gupta/leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/pratishtha-gupta/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/pratishtha-gupta/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
