@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/pratishtha-gupta/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/pratishtha-gupta/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pratishtha-gupta/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pratishtha-gupta/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pratishtha-gupta/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/pratishtha-gupta/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
