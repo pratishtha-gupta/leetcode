@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pratishtha-gupta/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pratishtha-gupta/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/pratishtha-gupta/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/pratishtha-gupta/leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/pratishtha-gupta/leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/pratishtha-gupta/leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0812-rotate-string) |
 ## Binary Indexed Tree
@@ -902,4 +904,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/pratishtha-gupta/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/pratishtha-gupta/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [3910-find-books-with-no-available-copies](https://github.com/pratishtha-gupta/leetcode/tree/master/3910-find-books-with-no-available-copies) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pratishtha-gupta/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/pratishtha-gupta/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
