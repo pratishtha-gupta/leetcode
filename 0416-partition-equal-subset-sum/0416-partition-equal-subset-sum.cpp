@@ -1,20 +1,35 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int totalSum = 0;
-        for (int num : nums) totalSum += num;
+    bool subsetsum(int ind, vector<int>& nums, int target, vector<vector<int>>& dp) {
+        if (target == 0)
+            return true;
+        if (ind == 0)
+            return nums[0] == target;
 
-        if (totalSum % 2 != 0) return false;
+        if (dp[ind][target] != -1)
+            return dp[ind][target];
 
-        int targetSum = totalSum / 2;
-        vector<bool> dp(targetSum + 1, false);
-        dp[0] = true;
-        for (int num : nums) {
-            for (int currSum = targetSum; currSum >= num; --currSum) {
-                dp[currSum] = dp[currSum] || dp[currSum - num];
-                if (dp[targetSum]) return true;
-            }
+        bool notpick = subsetsum(ind - 1, nums, target, dp);
+        bool pick = false;
+        if (nums[ind] <= target) {
+            pick = subsetsum(ind - 1, nums, target - nums[ind], dp);
         }
-        return dp[targetSum];
+
+        return dp[ind][target] = pick || notpick;
+    }
+
+    bool canPartition(vector<int>& nums) {
+        int sum = 0;
+        for (int it : nums)
+            sum += it;
+
+        if (sum & 1)
+            return false;
+
+        int target = sum / 2;
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
+
+        return subsetsum(n - 1, nums, target, dp);
     }
 };
