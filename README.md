@@ -906,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pratishtha-gupta/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/pratishtha-gupta/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/pratishtha-gupta/leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/pratishtha-gupta/leetcode/tree/master/1877-find-followers-count) |
 | [3910-find-books-with-no-available-copies](https://github.com/pratishtha-gupta/leetcode/tree/master/3910-find-books-with-no-available-copies) |
 ## Rolling Hash
 |  |
