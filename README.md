@@ -918,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/pratishtha-gupta/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/pratishtha-gupta/leetcode/tree/master/1877-find-followers-count) |
 | [1942-primary-department-for-each-employee](https://github.com/pratishtha-gupta/leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/pratishtha-gupta/leetcode/tree/master/2057-count-salary-categories) |
 | [3910-find-books-with-no-available-copies](https://github.com/pratishtha-gupta/leetcode/tree/master/3910-find-books-with-no-available-copies) |
 ## Rolling Hash
 |  |
