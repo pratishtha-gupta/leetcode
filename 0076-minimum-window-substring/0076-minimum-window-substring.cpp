@@ -1,29 +1,35 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (t.size() > s.size()) return "";  // Edge case
-
-        unordered_map<char, int> mp;
-        for (char c : t) mp[c]++;  // Frequency map of characters in t
-        
-        int required = t.size(), left = 0, minLen = INT_MAX, start = -1;
-        
-        for (int right = 0; right < s.size(); right++) {
-            if (mp[s[right]] > 0) required--; // Valid character in t found
-            mp[s[right]]--;  // Decrease count
-            
-            while (required == 0) {  // Try to shrink window
-                if (right - left + 1 < minLen) { // Found a smaller window
-                    minLen = right - left + 1;
-                    start = left;
-                }
-                
-                mp[s[left]]++;  // Restore the left character
-                if (mp[s[left]] > 0) required++; // If it's needed in t, increase required
-                left++;  // Move left pointer
-            }
+        int left =0,minlen = INT_MAX, start=-1,required=0,right=0;
+        map<char,int> mp;
+        if(s.size()<t.size()) return "";
+        for(auto c:t) 
+        {
+            mp[c]++;
+            required++;
         }
-        
-        return (start == -1) ? "" : s.substr(start, minLen);
+        while(right<s.size())
+        {
+            if(mp[s[right]]>0) required--;
+            mp[s[right]]--;
+            while(required==0){
+            if(right-left+1 < minlen)
+            {
+                minlen = right-left+1;
+                start = left;
+            }
+            
+           mp[s[left]]++;
+           if(mp[s[left]]>0) required++;
+           left++;
+            }
+           right++;
+            
+        }
+        if(start!=-1)
+        return s.substr(start,minlen);
+        else
+        return "";
     }
 };
