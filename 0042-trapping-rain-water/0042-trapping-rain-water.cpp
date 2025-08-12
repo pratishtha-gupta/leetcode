@@ -1,27 +1,31 @@
 class Solution {
 public:
-    int trap(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> presum(n,0);
-        vector<int> suffixsum(n,0);
-        presum[0] = heights[0];
-        for(int i=1;i<n;i++)
+    int trap(vector<int>& height) {
+        int n = height.size();
+        int l=0,r=n-1;
+        int res=0;
+        int maxleft=0,maxright=0;
+        while(l<=r)
         {
-            presum[i] = max(presum[i-1],heights[i]);
+            if(height[l]<=height[r])
+            {
+                if(height[l]>=maxleft)
+                {
+                    maxleft= height[l];
+                }
+                else
+                res+= maxleft-height[l];
+                l++;
+            }
+            else
+            {
+                if(height[r]>=maxright)
+                maxright = height[r];
+                else
+                res+= maxright-height[r];
+                r--;
+            }
         }
-        suffixsum[n-1]= heights[n-1];
-        for(int i=n-2;i>=0;i--)
-        {
-            suffixsum[i]= max(heights[i],suffixsum[i+1]);
-        }
-        int ans=0;
-        for(int i=0;i<n;i++)
-        {
-            int trap = min(presum[i],suffixsum[i])-heights[i];
-            ans+=trap;
-        }
-        return ans;
-
-        
+        return res;
     }
 };
