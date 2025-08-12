@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pratishtha-gupta/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pratishtha-gupta/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/pratishtha-gupta/leetcode/tree/master/0299-bulls-and-cows) |
+| [0402-remove-k-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/pratishtha-gupta/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/pratishtha-gupta/leetcode/tree/master/0686-repeated-string-match) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/pratishtha-gupta/leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/pratishtha-gupta/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/pratishtha-gupta/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/pratishtha-gupta/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratishtha-gupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pratishtha-gupta/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pratishtha-gupta/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratishtha-gupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/pratishtha-gupta/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/pratishtha-gupta/leetcode/tree/master/2227-sum-of-subarray-ranges) |
