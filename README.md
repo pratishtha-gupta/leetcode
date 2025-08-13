@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pratishtha-gupta/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pratishtha-gupta/leetcode/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/pratishtha-gupta/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/pratishtha-gupta/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/pratishtha-gupta/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pratishtha-gupta/leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
