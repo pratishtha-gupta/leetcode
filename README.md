@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pratishtha-gupta/leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/pratishtha-gupta/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pratishtha-gupta/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/pratishtha-gupta/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/0053-maximum-subarray) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pratishtha-gupta/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/pratishtha-gupta/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0070-climbing-stairs) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/pratishtha-gupta/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/0402-remove-k-digits) |
