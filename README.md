@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pratishtha-gupta/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pratishtha-gupta/leetcode/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/pratishtha-gupta/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/pratishtha-gupta/leetcode/tree/master/0733-flood-fill) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pratishtha-gupta/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pratishtha-gupta/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pratishtha-gupta/leetcode/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/pratishtha-gupta/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pratishtha-gupta/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pratishtha-gupta/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pratishtha-gupta/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pratishtha-gupta/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/pratishtha-gupta/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/pratishtha-gupta/leetcode/tree/master/1014-k-closest-points-to-origin) |
