@@ -1,29 +1,28 @@
 class Solution {
 public:
     int countCompleteSubarrays(vector<int>& nums) {
+        unordered_map<int,int> mp;
         int n = nums.size();
-        unordered_set<int> totalSet(nums.begin(), nums.end());
-        int distinct = totalSet.size();
-
-        unordered_map<int, int> cnt;
-        int left = 0, res = 0;
-
-        for (int right = 0; right < n; ++right) {
-            cnt[nums[right]]++;
-
-            while (cnt.size() == distinct) {
-                // All subarrays starting from left and ending from right to n-1 are complete
-                res += n - right;
-
-                // Shrink the window from the left
-                cnt[nums[left]]--;
-                if (cnt[nums[left]] == 0) {
-                    cnt.erase(nums[left]);
-                }
-                left++;
-            }
+        for(int i=0;i<n;i++)
+        {
+            mp[nums[i]]++;
         }
-
-        return res;
+        int k = mp.size();
+        int l=0,r=0,cnt=0;
+        mp.clear();
+        while(r<n)
+        {
+            mp[nums[r]]++;
+            while(mp.size()==k)
+            {
+               cnt+=(n-r);
+               mp[nums[l]]--;
+               if(mp[nums[l]]==0) mp.erase(nums[l]);
+               l++;
+            }
+            r++;
+        }
+        return cnt;
+        
     }
 };
