@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pratishtha-gupta/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/pratishtha-gupta/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratishtha-gupta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pratishtha-gupta/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pratishtha-gupta/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pratishtha-gupta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pratishtha-gupta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pratishtha-gupta/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/pratishtha-gupta/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String Matching
@@ -1084,4 +1088,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/pratishtha-gupta/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
