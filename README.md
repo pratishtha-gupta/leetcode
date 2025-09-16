@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/pratishtha-gupta/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pratishtha-gupta/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pratishtha-gupta/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pratishtha-gupta/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/pratishtha-gupta/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/3447-clear-digits) |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratishtha-gupta/leetcode/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pratishtha-gupta/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Shortest Path
 |  |
