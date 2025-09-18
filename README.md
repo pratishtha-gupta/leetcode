@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pratishtha-gupta/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pratishtha-gupta/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/pratishtha-gupta/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pratishtha-gupta/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/pratishtha-gupta/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/pratishtha-gupta/leetcode/tree/master/0937-online-stock-span) |
 | [2434-design-a-number-container-system](https://github.com/pratishtha-gupta/leetcode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/pratishtha-gupta/leetcode/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/pratishtha-gupta/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3678-design-task-manager](https://github.com/pratishtha-gupta/leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/pratishtha-gupta/leetcode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/pratishtha-gupta/leetcode/tree/master/3678-design-task-manager) |
 ## Stack
 |  |
 | ------- |
