@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pratishtha-gupta/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/pratishtha-gupta/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/pratishtha-gupta/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pratishtha-gupta/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/pratishtha-gupta/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pratishtha-gupta/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pratishtha-gupta/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/3447-clear-digits) |
 ## Union Find
