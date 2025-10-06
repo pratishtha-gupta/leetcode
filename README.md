@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/pratishtha-gupta/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/pratishtha-gupta/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/pratishtha-gupta/leetcode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/pratishtha-gupta/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/pratishtha-gupta/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pratishtha-gupta/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pratishtha-gupta/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pratishtha-gupta/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/pratishtha-gupta/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/pratishtha-gupta/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pratishtha-gupta/leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/pratishtha-gupta/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pratishtha-gupta/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/pratishtha-gupta/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratishtha-gupta/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pratishtha-gupta/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pratishtha-gupta/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratishtha-gupta/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/pratishtha-gupta/leetcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/pratishtha-gupta/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -744,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pratishtha-gupta/leetcode/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/pratishtha-gupta/leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pratishtha-gupta/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/pratishtha-gupta/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pratishtha-gupta/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -922,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/pratishtha-gupta/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/pratishtha-gupta/leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/pratishtha-gupta/leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pratishtha-gupta/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/pratishtha-gupta/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
