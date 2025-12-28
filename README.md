@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratishtha-gupta/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pratishtha-gupta/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/pratishtha-gupta/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratishtha-gupta/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/pratishtha-gupta/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/pratishtha-gupta/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pratishtha-gupta/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pratishtha-gupta/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pratishtha-gupta/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pratishtha-gupta/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/pratishtha-gupta/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pratishtha-gupta/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
