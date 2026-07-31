@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/pratishtha-gupta/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/pratishtha-gupta/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pratishtha-gupta/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pratishtha-gupta/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pratishtha-gupta/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pratishtha-gupta/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/pratishtha-gupta/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pratishtha-gupta/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3827-implement-router](https://github.com/pratishtha-gupta/leetcode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pratishtha-gupta/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/pratishtha-gupta/leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3678-design-task-manager](https://github.com/pratishtha-gupta/leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -966,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pratishtha-gupta/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/pratishtha-gupta/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -1176,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
