@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/pratishtha-gupta/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/pratishtha-gupta/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/pratishtha-gupta/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pratishtha-gupta/leetcode/tree/master/0498-diagonal-traverse) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pratishtha-gupta/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pratishtha-gupta/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pratishtha-gupta/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pratishtha-gupta/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pratishtha-gupta/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pratishtha-gupta/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Queue
@@ -1180,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
