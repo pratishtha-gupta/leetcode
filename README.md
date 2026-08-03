@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/pratishtha-gupta/leetcode/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/pratishtha-gupta/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pratishtha-gupta/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/pratishtha-gupta/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pratishtha-gupta/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/pratishtha-gupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pratishtha-gupta/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0877-stone-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/pratishtha-gupta/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/pratishtha-gupta/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/pratishtha-gupta/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/pratishtha-gupta/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pratishtha-gupta/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1185,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
