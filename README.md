@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pratishtha-gupta/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/pratishtha-gupta/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 | [2047-find-a-peak-element-ii](https://github.com/pratishtha-gupta/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/pratishtha-gupta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/pratishtha-gupta/leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/pratishtha-gupta/leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pratishtha-gupta/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pratishtha-gupta/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/pratishtha-gupta/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pratishtha-gupta/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/pratishtha-gupta/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/pratishtha-gupta/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pratishtha-gupta/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/pratishtha-gupta/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pratishtha-gupta/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pratishtha-gupta/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/pratishtha-gupta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/pratishtha-gupta/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/pratishtha-gupta/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pratishtha-gupta/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1201,9 +1205,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pratishtha-gupta/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratishtha-gupta/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pratishtha-gupta/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/pratishtha-gupta/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pratishtha-gupta/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/pratishtha-gupta/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
